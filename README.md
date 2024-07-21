@@ -18,7 +18,9 @@
 
 <br clear="both">
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3> 
+
+<img align="right" src="https://profile-counter.glitch.me/RahZero0/count.svg?"  />
 
 ###
 
@@ -49,9 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahZero0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/RahZero0/count.svg?"  />
 
 ###
 
