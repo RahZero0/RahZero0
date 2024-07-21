@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Research Intern at CG360<br>- 📚 I'm currently learning Deep Learning | LLM<br>- ⚡ In my free time I read research blogs.</p>
+<p align="left">I'm ... from ...India....<br><br>- 🔭 I’m working as Research Intern at CG360<br>- 📚 I'm currently learning Deep Learning | LLM<br>- ⚡ In my free time I read research blogs.</p>
 
 ###
 
