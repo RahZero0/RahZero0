@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RahZero0/RahZero0/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/RahZero0/RahZero0/blob/main/snake.yml" alt="Snake animation" />
 
 ###
