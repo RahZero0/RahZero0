@@ -1,4 +1,3 @@
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VtdGk5MDN2d3EzeTd5a2F1dWRwb3Y3dzQ1czg1dzJhdTkwYW5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fbksneAJLITC/giphy.webp" height=12 width=100%/>
 
 <div align="center">
@@ -12,9 +11,6 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-
-<img align="right" src="https://profile-counter.glitch.me/RahZero0/count.svg?"  />
 
 ###
 
@@ -71,7 +67,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VtdGk5MDN2d3EzeTd5a2F1dWRwb3Y3dzQ1czg1dzJhdTkwYW5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fbksneAJLITC/giphy.webp" height=12 width=100%/>
 
 
-## :zap: Open Source Programs & Achievements
+# :zap: Open Source Programs & Achievements
 
 <div align="center">
   <table>
@@ -139,3 +135,17 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VtdGk5MDN2d3EzeTd5a2F1dWRwb3Y3dzQ1czg1dzJhdTkwYW5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fbksneAJLITC/giphy.webp" height=12 width=100%/>
 
+
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
+
+<p align="center">
+    Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+  <a href="https://linkedin.com/in/ayush-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-reddy" height="30" width="40" /></a>
+</p>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:ayushpasham@gmail.com">ayushpasham@gmail.com</a> </h4>
+<!--view count-->
+<p align="center">
+  <h3 align="center">Profile Views <img src="https://profile-counter.glitch.me/RahZero0/count.svg?" alt="Profile Views Counter" align="center" /></h3>
+</p>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VtdGk5MDN2d3EzeTd5a2F1dWRwb3Y3dzQ1czg1dzJhdTkwYW5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fbksneAJLITC/giphy.webp" height=12 width=100%/>
