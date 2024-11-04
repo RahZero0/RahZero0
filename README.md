@@ -149,3 +149,6 @@
 </p>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VtdGk5MDN2d3EzeTd5a2F1dWRwb3Y3dzQ1czg1dzJhdTkwYW5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fbksneAJLITC/giphy.webp" height=12 width=100%/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
