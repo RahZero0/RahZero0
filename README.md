@@ -73,7 +73,7 @@
   <table>
     <tr align="center" valign="middle">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="middle" width="50%">
-        <a href="">
+        <a href="https://gssoc.girlscript.tech/">
           <img src="https://github.com/RahZero0/RahZero0/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code</strong>
@@ -98,9 +98,11 @@
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/RahZero0/RahZero0/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
-              <br>
-              <strong>Trailblazer Badge</strong>
+              <a href="">
+                <img src="https://github.com/RahZero0/RahZero0/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+                <br>
+                <strong>Trailblazer Badge</strong>
+              </a>
             </td>
           </tr>
           <tr align="center">
