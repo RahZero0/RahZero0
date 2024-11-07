@@ -97,13 +97,6 @@
               <br>
               <strong>Champion Badge</strong>
             </td>
-            <td style="padding: 10px;" width="100">
-              <a href="">
-                <img src="https://github.com/RahZero0/RahZero0/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
-                <br>
-                <strong>Trailblazer Badge</strong>
-              </a>
-            </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -112,14 +105,9 @@
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/RahZero0/RahZero0/blob/main/Innovator%20Bage.png" alt="Innovator Badge" width="80" />
+              <img src="https://github.com/RahZero0/RahZero0/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
-              <strong>Innovator Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/RahZero0/RahZero0/blob/main/Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
-              <br>
-              <strong>Conqueror Badge</strong>
+              <strong>Trailblazer Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/RahZero0/RahZero0/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
